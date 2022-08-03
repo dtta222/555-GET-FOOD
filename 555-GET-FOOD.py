@@ -7,7 +7,7 @@ The application should display the telephone number with any alphabetic
 characters that appeared in the original translated to their numeric equivalent.
 '''
 
-phoneNumber = input("Enter a phone number to be translated:")
+phoneNumber = input("Enter a phone number to be translated: ")
 
 translateNumber = []
 i = 0
