@@ -1,7 +1,8 @@
 # 555-GET-FOOD
 '''
 Many companies use telephone numbers like 555-GET-FOOD so the number is
-easier for their customers to remember. Write a program that asks the
+easier for their customers to remember. 
+Write a program that asks the
 user to enter a 10-character telephone number in the format XXX-XXX-XXXX.
 The application should display the telephone number with any alphabetic
 characters that appeared in the original translated to their numeric equivalent.
